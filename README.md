@@ -5,4 +5,4 @@ This script will also Merge by Distance 3d view curves in edit mode
 The updated version can simplify multiple curves simultaneously. Which can drastically reduce the time artist take to do the same thing with old script.
 
 # How to install----
-Download the script and Paste at >>> Blender 2.8x\2.8x\scripts\addons
+Download the repo and extract the files. Now copy the file curve_simplify_multiple.py and paste at >>> Blender 2.8x\2.8x\scripts\addons
